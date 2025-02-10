@@ -6,7 +6,7 @@ Hi! I'm Muhammad Naufal Pratama,<br><br>A passionate **Software Engineering stud
 🚀 **Porto Assessment Rakryan** – Hasil ujian asesmen Rakryan slicing Figma ([GitHub Repo](https://github.com/Iridescentd/porto-naufal-rakryan.git)  
 📱 **Simple Flutter Project** – Hasil APK e-Commerce sederhana ([GitHub Repo](#))  
 💡 **[Project 3 Name]** – Short description ([GitHub Repo](#))  
-*(More cool projects in my repositories!)*  
+  
 
 
 ## 🌐 Socials:
