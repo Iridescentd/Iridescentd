@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I'm Muhammad Naufal Pratama,<br><br>A passionate **Software Engineering student** at **SMK Negeri  8 Malang**, eager to explore the world of **web & mobile development, IoT, and software development**. I I enjoy transforming concepts into functional and well-structured solutions, focusing on clarity and performance in every line of code.<br><br>### 🌟 What I Do ? <br>🔹 **Building & Learning** – I enjoy creating websites, apps, and IoT solutions while continuously improving my skills.  <br>🔹 **Problem-Solving** – I love tackling coding challenges and finding innovative solutions.  <br>🔹 **Collaboration** – Always open to working on exciting projects and open-source contributions!  
+Hi! I'm Muhammad Naufal Pratama,<br><br>A passionate **Software Engineering student** at **SMK Negeri  8 Malang**, eager to explore the world of **web & mobile development, IoT, and software development**. I I enjoy transforming concepts into functional and well-structured solutions, focusing on clarity and performance in every line of code.<br><br>
+### 🌟 What I Do ? <br>
+🔹 **Building & Learning** – I enjoy creating websites, apps, and IoT solutions while continuously improving my skills.  <br>🔹 **Problem-Solving** – I love tackling coding challenges and finding innovative solutions.  <br>🔹 **Collaboration** – Always open to working on exciting projects and open-source contributions!  
 
 
 ### 📂 Featured Projects  
